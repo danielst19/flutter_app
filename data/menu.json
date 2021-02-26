@@ -1,0 +1,15 @@
+{
+  "menu": [
+    { "path": "/", "text": "Contactos", "icon": "group_outlined"},
+    { "path": "animation", "text": "Animaciones", "icon": "animation"},
+    { "path": "list", "text": "Lista", "icon": "list"},
+    { "path": "card", "text": "Card", "icon": "folder_open"},
+    { "path": "images", "text": "Imagenes", "icon": "image"},
+    { "path": "input", "text": "Inputs", "icon": "input"},
+    { "path": "fade-in", "text": "Fade In", "icon": "accessibility"},
+    { "path": "infinite-scroll", "text": "Infinite scroll", "icon": "accessibility"},
+    { "path": "pokemon-list", "text": "Lista pokemones", "icon": "accessibility"},
+    { "path": "slider", "text": "Slider", "icon": "accessibility"},
+    { "path": "slider-exercise", "text": "Ejercicio slider", "icon": "accessibility"}
+  ]
+}
